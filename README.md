@@ -1,9 +1,9 @@
-# 👋 Halo, Saya Dwi Andina! 🎉
+# 👋 Salsabilla Fadillah Safina! 🎉
 
 ## 📋 Informasi Pribadi
-- **Nama**: Dwi Andina Putri
-- **NIM**: 230605110157
-- **Kelas Praktikum**: B
+- **Nama**: Salsabilla Fadillah Safina
+- **NIM**: 240605110242
+- **Kelas Praktikum**: F
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
